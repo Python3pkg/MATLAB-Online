@@ -8,8 +8,8 @@ Once downloaded, run `plotlysetup('your_username', 'your_api_key')` to get start
 
 ### UPDATES: 
 
-`plotlyupdate.m` is currently disabled. Please download the latest version 
-as described in the section above.  
+`plotlyupdate.m` is currently disabled. Please manually download and setup the latest version 
+of the wrapper by following the installation instructions above. 
 
 ### NUTSHELL:
 
